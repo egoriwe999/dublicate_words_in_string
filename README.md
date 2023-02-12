@@ -1,4 +1,4 @@
-#Duplicator of words in string
+# Duplicator of words in string
 
 Condition :
 An arbitrary number of strings of arbitrary length is entered from the input stream. Each line generally contains one or more words separated by spaces and/or tabs.
