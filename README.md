@@ -15,4 +15,4 @@ Marked time of work programm
 
 Checked in "valgrind" (0 errors)
 
-Create by egoriwe999
+Created by egoriwe999
