@@ -11,6 +11,8 @@ Duplicate words of even length
 
 Working with memory (malloc,realloc,calloc,free functions)
 
+Marked time of work programm
+
 Checked in "valgrind" (0 errors)
 
 Create by egoriwe999
